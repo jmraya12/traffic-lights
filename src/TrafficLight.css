@@ -1,0 +1,19 @@
+.light {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px auto; /* Space between lights */
+    background-color: grey; /* Default color */
+}
+
+.red.active {
+    background-color: red;
+}
+
+.amber.active {
+    background-color: orange;
+}
+
+.green.active {
+    background-color: green;
+}
